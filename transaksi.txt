@@ -1,0 +1,1 @@
+Pembelian, Kode: 100, Nama: Es tebu, Jumlah: 1, Harga: 10000
